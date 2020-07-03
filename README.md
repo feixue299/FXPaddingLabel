@@ -14,3 +14,13 @@ pod 'FXPaddingLabel', '~> 0.1.0'
 ```
 
 Then run `pod install`.
+
+### Carthage
+
+Make the following entry in your Cartfile:
+
+```
+github "feixue299/FXPaddingLabel" ~> 0.1.1
+```
+
+Then run `carthage update`.
